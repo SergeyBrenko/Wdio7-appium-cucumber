@@ -31,7 +31,8 @@
     "chromedriver": "^90.0.0",
     "eslint": "^7.3.0",
     "wdio-chromedriver-service": "^7.0.0",
-    "@cucumber/cucumber": "^7.2.1"
+    "@cucumber/cucumber": "^7.2.1",
+    "javascript-agent-wdio": "^1.0.1-alpha"
   },
   "devDependencies": {
     "chai": "^4.2.0",
